@@ -9,12 +9,6 @@ This is my Placement Tracker Dashboard project. I built this application to help
 - Integrated authentication and data management
 - Deployed the website using Vercel
 
-## Live Website
-
-You can view and use the project here:
-
-**[https://vercel.com/dhileepans-projects/v0-placement-tracker-dashboard](https://vercel.com/dhileepans-projects/v0-placement-tracker-dashboard)**
-
 ## How to Run Locally
 
 1. Clone this repository
@@ -22,8 +16,3 @@ You can view and use the project here:
 3. Start the development server with `pnpm dev`
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## About the Project
-
-This project was built and deployed by me. For more details or to see the build process, visit:
-
-**[https://v0.dev/chat/projects/SorrAJwtPjj](https://v0.dev/chat/projects/SorrAJwtPjj)**
