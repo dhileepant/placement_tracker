@@ -11,7 +11,7 @@ This is my Placement Tracker Dashboard project. I built this application to help
 
 ## live website
 
-https://placement-tracker-y8ae.onrender.com
+https://placement-tracker-tawny.vercel.app/
 
 ## How to Run Locally
 
